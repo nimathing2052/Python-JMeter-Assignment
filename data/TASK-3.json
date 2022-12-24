@@ -1,0 +1,52 @@
+[
+    {
+        "Country": "Canada",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": 1618.5,
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$32",
+        "SalesQty": 370.0
+    },
+    {
+        "Country": "Germany",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": 1321.0,
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$20.00",
+        "GrossSales": "$26",
+        "SalesQty": 420.0
+    },
+    {
+        "Country": "France",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": 2178.0,
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$32",
+        "SalesQty": 670.0
+    },
+    {
+        "Country": "Germany",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": 888.0,
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$13",
+        "SalesQty": 320.0
+    },
+    {
+        "Country": "Mexico",
+        "Product": "Carretera",
+        "DiscountBand": "None",
+        "UnitsSold": 2470.0,
+        "ManufacturingPrice": "$3.00",
+        "SalePrice": "$15.00",
+        "GrossSales": "$37",
+        "SalesQty": 50.0
+    }
+]
